@@ -1,4 +1,4 @@
-# MechanicalTask1
+# Mechanical Task 1
 
 This repository provides detailed files and documentation for designing a planetary gearbox using SolidWorks. Planetary gearboxes are widely used in various mechanical systems for their high torque density and compact size.
 
