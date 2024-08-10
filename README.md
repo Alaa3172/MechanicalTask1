@@ -22,7 +22,7 @@ This project focuses on creating a comprehensive 3D model of a planetary gearbox
 
 ## Usage
 
-- **SolidWorks Compatibility**: The files are compatible with SolidWorks 2023 and later versions. Ensure you have an appropriate version to open and edit the files.
+- **SolidWorks Compatibility**: The files are compatible with SolidWorks 2022 and later versions. Ensure you have an appropriate version to open and edit the files.
 - **Customization**: You can modify the design parameters to fit specific application requirements, including gear ratios, sizes, and mounting configurations.
 - **Simulation**: Utilize SolidWorks Simulation tools to test the gearbox under various loads and conditions to validate the design.
 
